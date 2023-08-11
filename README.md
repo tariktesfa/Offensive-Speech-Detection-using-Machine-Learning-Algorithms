@@ -1,58 +1,35 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Multilingual Offensive Speech Detection Uisng Machine Learning Algorithms
 
-# Project Name
-
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
+This is a project done for a completion of Foundation of Machine Learning course given by Dr. Denekew Jembere who currently work at Microsoft.
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- Machine Learning
+- Deep Learning
+- Pretrained Word Embedding (Word2vec and fastText)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**Do you want run it locally?**
+Step 1: Get a local copy of the repo by running the following command in your terminal.
 
+`git clone https://github.com/tariktesfa/Offensive-Speech-Detection-using-Machine-Learning-Algorithms.git`
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
+Step 2: Go to your folder directory and run the code.
 ## Authors
 
-👤 **Author1**
+👤 **Tarikwa Tesfa**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@tariktesfa](https://github.com/tariktesfa)
+- Twitter: [@tariktesfa](https://twitter.com/tarik-tesfa)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/tarikwa-tesfa)
 
-👤 **Author2**
+👤 **Naol Bekele**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- GitHub: [@Naol](https://github.com/githubhandle)
+- Twitter: [@Naol](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
@@ -67,10 +44,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+- Everyone who contribute to this project
