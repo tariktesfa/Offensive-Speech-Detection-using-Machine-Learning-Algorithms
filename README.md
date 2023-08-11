@@ -18,6 +18,10 @@ Step 1: Get a local copy of the repo by running the following command in your te
 `git clone https://github.com/tariktesfa/Offensive-Speech-Detection-using-Machine-Learning-Algorithms.git`
 
 Step 2: Go to your folder directory and run the code.
+
+Please use the following link to download the pretarined word embeddings
+Word2vec: [link](http://134.100.15.200/amharic/models/word2vec/amharic-word2vec-300D.gz)
+FastText: [link] (https://fasttext.cc/docs/en/crawl-vectors.html)
 ## Authors
 
 👤 **Tarikwa Tesfa**
