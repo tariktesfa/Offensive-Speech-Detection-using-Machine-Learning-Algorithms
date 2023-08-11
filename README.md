@@ -1,6 +1,6 @@
 # Multilingual Offensive Speech Detection Using Machine Learning Algorithms
 
-This is a project done for the completion of the Foundations of Machine Learning course given by Dr. Denekew Jembere who currently work at Microsoft.
+This project was undertaken as part of the Foundations of Machine Learning course, instructed by Dr. Denekew Jembere, currently affiliated with Microsoft, to fulfill the course requirements.
 
 Additional description of the project and its features.
 
@@ -20,7 +20,7 @@ Step 1: Get a local copy of the repo by running the following command in your te
 
 Step 2: Go to your folder directory and run the code.
 
-Please use the following link to download the pre-trained word embeddings
+Please use the following link to download the pre-trained word embeddings:
 
 - Word2vec: [link](http://134.100.15.200/amharic/models/word2vec/amharic-word2vec-300D.gz)
 
